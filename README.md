@@ -58,7 +58,7 @@ The aim is to group customers based on **Age**, **Annual Income**, and **Spendin
 
 ## 🚀 How to Run
 - Upload Mall_Customers.csv when prompted.
-- Open Task8-KMeansClustering.ipynb in Jupyter Notebook or Google Colab.
+- Open Task_8-Clustering_K-Means.ipynb in Jupyter Notebook or Google Colab.
 - Run all cells step-by-step to reproduce the results.
 
 ***💡 K-Means clustering helps businesses understand customer patterns and create targeted marketing strategies.***
